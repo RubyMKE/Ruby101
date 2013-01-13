@@ -5,14 +5,14 @@
 Installation of Ruby and other tools is not as hard as it used to be, but things still occasionally go wrong. We have volunteers all around to help when it does. Just raise your hand and find one of us.
 
 
-# The Long Version - Recommended
+# The Long Version (Recommended)
 The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantastic set of installation documentation along with tests to ensure everything is configured correctly.
 
 
 [RailsBridge Install Fest Instructions](http://docs.railsbridge.org/installfest/)
 
 
-If you want to be sure that before you leave everything you need for Ruby and Rails development is installed correctly, follow the RailsBridge instructions. If you don't plan to work with Rails, are short on time, or just want to see the basic steps, skip below to Installation For The Impatient
+If you want to be sure that, before you leave, everything you need for Ruby and Rails development is installed correctly, follow the RailsBridge instructions. If you don't plan to work with Rails, are short on time, or just want to see the basic steps, look below to Installation For The Impatient
 
 
 # While You Wait
@@ -32,7 +32,7 @@ While checking out TryRuby, be sure to click that link in the bottom left to fin
 
 # Installation For The Impatient
 
-## What will be installed?
+## What are we installing?
 * [Homebrew](http://mxcl.github.com/homebrew/) (OS X) - Package management
 * [Git](http://git-scm.com/) - Version control and getting packages
 * [RVM](https://rvm.beginrescueend.com/) (except Windows) - Installing and managing Ruby versions
@@ -47,7 +47,6 @@ On OS X and Windows the fastest way to install everything on our list is to use 
 Once the OS-specific installation steps below are performed, rails installation is the same on all platforms: `$ gem install rails`
 
 ## OS X
-
 * Compiler - Hopefully you have this already
   * [XCode](http://developer.apple.com/downloads) - Search for "Command Line Tools for XCode"
   * [gcc-installer](https://github.com/kennethreitz/osx-gcc-installer) - Can also be used
