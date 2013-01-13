@@ -15,6 +15,20 @@ The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantasti
 If you want to be sure that before you leave everything you need for Ruby and Rails development is installed correctly, follow the RailsBridge instructions. If you don't plan to work with Rails, are short on time, or just want to see the basic steps, skip below to Installation For The Impatient
 
 
+## While You Wait
+A few parts of the installation can take a fair amount of time. While waiting, one thing you could do is get started learning Ruby.
+### A First Look At Ruby
+[TryRuby.org](http://tryruby.org) - Interactive Ruby Tutorial on the web, in a style very representative of the Ruby community. Welcome!
+
+----
+
+A Quick Detour
+
+While checking out TryRuby, be sure to click that link in the bottom left to find the *best programming book ever written* which just happens to be about Ruby: [Why's (Poignant) Guide To Ruby](http://mislav.uniqpath.com/poignant-guide)
+
+----
+
+
 ## What will be installed?
 * [Homebrew](http://mxcl.github.com/homebrew/) (OS X) - Package management
 * [Git](http://git-scm.com/) - Version control and getting packages
@@ -68,4 +82,8 @@ If you don't have a favorite text editor, there are many choices. Rubyist do ten
 If you really want to invest time in learning a powerful text editor, [vim](http://www.vim.org/) is arguably the most popular among Rubyist, while [emacs](http://www.gnu.org/software/emacs/) is arguably the most powerful. Both take real dedication to master and pay handsome rewards for doing so.
 
 
+# Next Steps
+
+## Ruby Exercises
+[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) is a great set of small exercises for quickly getting up to speed with Ruby.
 
