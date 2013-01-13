@@ -4,6 +4,9 @@
 
 Installation of Ruby and other tools is not as hard as it used to be, but things still occasionally go wrong. We have volunteers all around to help when it does. Just raise your hand and find one of us.
 
+# Instructions
+[https://github.com/RubyMKE/Ruby101](https://github.com/RubyMKE/Ruby101)
+
 
 # The Long Version (Recommended)
 The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantastic set of installation documentation along with tests to ensure everything is configured correctly.
