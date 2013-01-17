@@ -44,6 +44,8 @@ While checking out TryRuby, be sure to click that link in the bottom left to fin
 * [Bundler](http://gembundler.com/) - Managing gem dependencies (optional)
 * A text editor, if you don't already have a favorite.
 
+NOTE: A dollar sign `$` in the instructions below is meant to indicate a command line prompt. This means the instruction is indented to be entered on the command line. You should type everything in the box *except* the $ into the command line prompt
+
 ## Rails
 On OS X and Windows the fastest way to install everything on our list is to use the [RailsInstaller](http://railsinstaller.org/).
 
