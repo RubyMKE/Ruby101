@@ -84,6 +84,9 @@ If you don't have a favorite text editor, there are many choices. Rubyist do ten
 If you really want to invest time in learning a powerful text editor, [vim](http://www.vim.org/) is arguably the most popular among Rubyist, while [emacs](http://www.gnu.org/software/emacs/) is arguably the most powerful. Both take real dedication to master and pay handsome rewards for doing so.
 
 
+# Common Installation Problems
+If you run into an issue while following the installfest instructions, check the [Solutions to Common Problems](https://github.com/RubyMKE/Ruby101/blob/master/solutions-to-common-install-problems.md) where we are cataloging issues found as well as solutions. (Feel free fork and add your problem, if its not already there.)
+
 # Next Steps
 
 ## Ruby Exercises
