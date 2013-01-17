@@ -89,3 +89,5 @@ If you really want to invest time in learning a powerful text editor, [vim](http
 ## Ruby Exercises
 [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) is a great set of small exercises for quickly getting up to speed with Ruby.
 
+## Command Line Exercises
+During the InstallFest we noticed that some people were a little uncomfortable at the command line. This is a pretty common issue, with a common solution: practice. The same as author as the Ruby book above wrote [Learn Command Line The Hard Way](http://cli.learncodethehardway.org/book/) which is a great intro to the basics of using the command line to get work done. It is highly recommended that you be at least comfortable at the command line, as much of the Ruby world's tools are command line tools.
