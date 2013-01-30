@@ -4,15 +4,12 @@
 
 Installation of Ruby and other tools is not as hard as it used to be, but things still occasionally go wrong. We have volunteers all around to help when it does. Just raise your hand and find one of us.
 
-# Instructions
-[https://github.com/RubyMKE/Ruby101](https://github.com/RubyMKE/Ruby101)
-
 
 # The Long Version (Recommended)
 The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantastic set of installation documentation along with tests to ensure everything is configured correctly.
 
 
-[RailsBridge Install Fest Instructions](http://docs.railsbridge.org/installfest/)
+[RailsBridge Install Fest Instructions](http://ruby201.herokuapp.com/installfest/)
 
 
 If you want to be sure that, before you leave, everything you need for Ruby and Rails development is installed correctly, follow the RailsBridge instructions. If you don't plan to work with Rails, are short on time, or just want to see the basic steps, look below to Installation For The Impatient
