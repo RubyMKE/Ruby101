@@ -14,11 +14,25 @@ This is because the terminal application on Ubuntu 12.04 and later does not star
 
 
 ## Rails 4.0 Deprecation Warning During Heroku db:migrate
-Some people got deprecation warnings when they run `heroku run rake db:migrate`. This is to let you know that once Rails 4 comes out, this method won't work. However, for this course we'll be working strictly on Rails 3, so this problem can be safely ignored.
+When running `heroku run rake db:migrate`, you may see an error message like the following:
+```
+DEPRECATION WARNING: You have Rails 2.3-style plugins in vendor/plugins! Support for these plugins will be removed in
+Rails 4.0. Move them out and bundle them in your Gemfile, or fold them in to your app as lib/myplugin/* and config
+/initializers/myplugin.rb. See the release notes for more on this: 
+http://weblog.rubyonrails.org/2012/1/4/rails-3-2-0-rc2-has-been-released.
+(called from <top (required)> at /app/Rakefile:7)
+```
 
-To silence the issues, open the file `conf/environment/production.rb` and add the following (near the top, between the `do` and `end`):
+This is to let you know that once Rails 4 comes out, plugins in the vendor/plugins directory will not work. However, for this course we will not be using any plugins or worrying about Rails 4, so this problem can be safely ignored.
+
+
+
+To silence the issues, open the file `conf/environments/production.rb` and add the following (near the top, between the `do` and `end`):
 
 `ActiveSupport::Deprecation.silenced = true`
+
+Note: This doesn't actually work ;)
+Todo: Figure this out
 
 
 ## Javascript problems on Windows 8
