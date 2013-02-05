@@ -8,7 +8,7 @@ Installation of Ruby and other tools is not as hard as it used to be, but things
 # The Long Version (Recommended)
 The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantastic set of installation documentation along with tests to ensure everything is configured correctly.
 
-`HOLD UP. READ THIS. IT MUST MAY SAVE YOUR LIFE...`
+`HOLD UP. READ THIS. IT JUST MAY SAVE YOUR LIFE...`
 
 As you go through each section of the installation please read the _entire_ step through its end and _then_ execute the step. There are sublties about the installation process that if done out of order will get you caught up. All in, the installation takes people 30 to 45 minutes and most of that is donwloading softare.  Good luck!
 
