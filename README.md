@@ -2,12 +2,17 @@
 
 `DON'T PANIC`
 
-Installation of Ruby and other tools is not as hard as it used to be, but things still occasionally go wrong. We have volunteers all around to help when it does. Just raise your hand and find one of us.
+Installation of Ruby and other tools is not as hard as it used to be, but things still occasionally go wrong. We will have volunteers around to help if something does go awry. Just raise your hand or find one of us.
 
 
 # The Long Version (Recommended)
 The [RailsBridge](http://workshops.railsbridge.org/) team has created a fantastic set of installation documentation along with tests to ensure everything is configured correctly.
 
+`HOLD UP. READ THIS. IT MUST MAY SAVE YOUR LIFE...`
+
+As you go through each section of the installation please read the _entire_ step through its end and _then_ execute the step. There are sublties about the installation process that if done out of order will get you caught up. All in, the installation takes people 30 to 45 minutes and most of that is donwloading softare.  Good luck!
+
+`Okay. Now you can click away...`
 
 [RailsBridge Install Fest Instructions](http://ruby201.herokuapp.com/installfest/)
 
@@ -75,7 +80,7 @@ Ruby and Rails development on Windows is totally possible, but will be fraught w
 # Text Editors
 If you don't have a favorite text editor, there are many choices. Rubyist do tend to use a text editor over an IDE, but we have those available as well.
 
-* [Sublime Text2](http://www.sublimetext.com/2) - Cross-platform, easy learning curve.
+* [Sublime Text2](http://www.sublimetext.com/2) - Cross-platform (windows/mac/linux) and a tool that makes coding lovely.
 * [Redcar](http://redcareditor.com/) - Written in Ruby, cross-platform.
 * [RubyMine](http://www.jetbrains.com/ruby/) - IDE, cross-platform
 * [Notepad++](http://notepad-plus-plus.org/) - Windows
@@ -89,7 +94,7 @@ If you run into an issue while following the installfest instructions, check the
 # Next Steps
 
 ## Ruby Exercises
-[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) is a great set of small exercises for quickly getting up to speed with Ruby.
+[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) is a great set of small exercises for quickly getting up to speed with Ruby. Work through the end of Lesson 33, but feel free to further if you wish.
 
 ## Command Line Exercises
 During the InstallFest we noticed that some people were a little uncomfortable at the command line. This is a pretty common issue, with a common solution: practice. The same as author as the Ruby book above wrote [Learn Command Line The Hard Way](http://cli.learncodethehardway.org/book/) which is a great intro to the basics of using the command line to get work done. It is highly recommended that you be at least comfortable at the command line, as much of the Ruby world's tools are command line tools.
